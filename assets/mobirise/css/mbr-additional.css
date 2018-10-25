@@ -540,6 +540,9 @@ h6,
 #features3-2k H5 {
   color: #0a2aef;
 }
+#features3-2k H4 {
+  color: #41a85f;
+}
 #features3-2i P {
   text-align: left;
 }
@@ -549,6 +552,9 @@ h6,
 #features3-2i H5 {
   color: #0a2aef;
 }
+#features3-2i H4 {
+  color: #41a85f;
+}
 #features3-2j P {
   text-align: left;
 }
@@ -557,6 +563,9 @@ h6,
 }
 #features3-2j H5 {
   color: #0a2aef;
+}
+#features3-2j H4 {
+  color: #41a85f;
 }
 #features1-9 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #41a85f;
