@@ -295,7 +295,7 @@
               "size": 250
             }
           },
-          "title": "DOCENTES PROFESIONALES ESPECIALIZADOS",
+          "title": "DOCENTES &nbsp;PROFESIONALES &nbsp;ESPECIALIZADOS",
           "text": "NUESTROS DOCENTES RECIBEN Y DAN CAPACITACIÓN DE FORMA PERMANENTE, PARA BRINDAR SERVICIOS EDUCATIVOS Y DE RECREACIÓN DEPORTIVA AL MÁS ALTO NIVEL.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"capacitacion.html#gallery2-v\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MÁS</a>",
           "_tags": [
@@ -310,7 +310,7 @@
               "font-size": "14px"
             },
             ".mbr-section-title": {
-              "font-size": "24px",
+              "font-size": "36px",
               "color": "#f3c649"
             }
           }
@@ -387,6 +387,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -2001,7 +2004,7 @@
             }
           },
           "text1": "<strong>Dirección</strong><br>Tiempo de Deportes S.A.\n<br>LAS MAGNOLIAS Nº 903 \n<br>Del Viso, Manuel Alberti, <br>Provincia de Buenos Aires, <br>Argentina<br>",
-          "text2": "<strong>Contacto</strong><br><b>Email: </b>tiempodedeportes@gmail.com\n<br><b>Teléfono: &nbsp;</b>02320-300026 / 15-3175-7950\n<br><b>Fax: &nbsp;</b>02320-300026<br><b>Horario de atención: \n</b><br>Lunes a viernes de 09:00 a 17:00 hs \n<br>Sábados de 11:00 a 13:00 hs<br>",
+          "text2": "<strong>Contacto</strong><br><b>Email:</b><b><br></b>tiempodedeportes@gmail.com\n<br><b>Teléfono:</b><b><br></b>02320-300026 / 15-3175-7950\n<br><b>Fax:</b>02320-300026<br><b>Horario de atención:</b><b><br></b>Lunes a viernes de 09:00 a 17:00 hs \n<br>Sábados de 11:00 a 13:00 hs<br>",
           "text3": "<strong>Links</strong><br>\n-&nbsp;<a class=\"text-warning\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a><br>\n-&nbsp;<a class=\"text-warning\" href=\"index.html#msg-box5-19\">QUÉ HACEMOS</a><br>\n-&nbsp;<a class=\"text-warning\" href=\"index.html#features1-9\">COUNTRIES</a><br>-&nbsp;<a class=\"text-warning\" href=\"index.html#features3-2k\">SERVICIOS EDUCATIVOS Y &nbsp; &nbsp; &nbsp; &nbsp;DEPORTIVOS</a><br>-&nbsp;<a class=\"text-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a><a href=\"index.html#slider3-1y\" class=\"text-warning\">IMÁGENES</a><br>",
           "_tags": [
             "Tema"

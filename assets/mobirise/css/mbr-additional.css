@@ -517,7 +517,7 @@ h6,
   font-size: 14px;
 }
 #header2-2 .mbr-section-title {
-  font-size: 24px;
+  font-size: 36px;
   color: #f3c649;
 }
 #msg-box5-19 H3 {
@@ -537,6 +537,9 @@ h6,
 #msg-box8-2u .mbr-section-title,
 #msg-box8-2u p {
   color: #fff;
+}
+#msg-box8-2u .mbr-section-title {
+  color: #ffffff;
 }
 #features3-2k P {
   text-align: left;
