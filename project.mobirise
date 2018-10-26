@@ -1980,7 +1980,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/6-al-8-del-10-27-1040x780.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
