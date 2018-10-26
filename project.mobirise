@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 103,
+    "uniqCompNum": 106,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1983,7 +1983,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#2e2e2e",
             "overlay": false,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2003,26 +2003,20 @@
               "size": 0
             }
           },
-          "text1": "<b>Dirección<br>Tiempo de Deportes S.A.\n<br>LAS MAGNOLIAS Nº 903 \n<br>Del Viso, Manuel Alberti, <br>Provincia de Buenos Aires, <br>Argentina</b><br>",
-          "text2": "<b>Contacto<br>Email:<br><a href=\"index.html#form1-7\" class=\"text-primary\">tiempodedeportes@gmail.com</a>\n<br>Teléfono: &nbsp;<br>02320-300026 <br>15-3175-7950\n<br><br>Horario de atención:<br>Lunes a viernes &nbsp;9:00 a 17:00 hs \n<br>Sábados de 11:00 a 13:00 hs</b><br>",
-          "text3": "<b>Links<br>\n-&nbsp;<a class=\"text-primary\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a><br>\n-&nbsp;<a class=\"text-primary\" href=\"index.html#msg-box5-19\">QUÉ HACEMOS</a><br>\n-&nbsp;<a class=\"text-primary\" href=\"index.html#features1-9\">COUNTRIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"index.html#features3-2k\">SERVICIOS&nbsp;</a><br>-&nbsp;<a class=\"text-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a><a href=\"index.html#slider3-1y\" class=\"text-primary\">IMÁGENES</a></b><br>",
+          "text1": "<strong>Dirección</strong><br>Tiempo de Deportes S.A. \n<br>LAS MAGNOLIAS Nº 903 \n<br>Del Viso, Manuel Alberti, \n<br>Provincia de Buenos Aires, \n<br>Argentina<br>",
+          "text2": "<strong>Contacto</strong><br>Email:\n<br>tiempodedeportes@gmail.com \n<br>Teléfono:  \n<br>02320-300026 \n<br>15-3175-7950 \n<br>\n<br>Horario de atención:\n<br>Lunes a viernes  9:00 a 17:00 hs \n<br>Sábados de 11:00 a 13:00 hs<br>",
+          "text3": "<strong><a href=\"index.html#msg-box5-18\">Links</a></strong><br><a href=\"index.html#msg-box5-18\">- QUIENES SOMOS\n</a><br><a href=\"index.html#msg-box5-19\">- QUÉ HACEMOS\n</a><br><a href=\"index.html#features1-9\">- COUNTRIES\n</a><br><a href=\"index.html#features3-2k\">- SERVICIOS \n</a><br><a href=\"index.html#slider3-1y\">- IMÁGENES</a><br>",
           "_tags": [
             "Tema"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-2m",
+          "_anchor": "contacts1-2x",
           "_styles": {
-            "P": {
-              "color": "#0a2aef",
-              "text-align": "left",
-              "font-size": "16px"
-            },
             "STRONG": {
-              "color": "#0a2aef"
-            },
-            "B": {
-              "font-size": "17px",
               "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "17px"
             }
           }
         }

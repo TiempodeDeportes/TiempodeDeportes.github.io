@@ -606,17 +606,11 @@ h6,
 #form1-7 .btn {
   font-size: 16px;
 }
-#contacts1-2m P {
-  color: #0a2aef;
-  text-align: left;
-  font-size: 16px;
-}
-#contacts1-2m STRONG {
-  color: #0a2aef;
-}
-#contacts1-2m B {
-  font-size: 17px;
+#contacts1-2x STRONG {
   color: #ffffff;
+}
+#contacts1-2x P {
+  font-size: 17px;
 }
 
 
