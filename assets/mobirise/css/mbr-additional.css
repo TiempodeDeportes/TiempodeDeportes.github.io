@@ -607,9 +607,16 @@ h6,
   font-size: 16px;
 }
 #contacts1-2m P {
-  color: #000000;
+  color: #0a2aef;
   text-align: left;
   font-size: 16px;
+}
+#contacts1-2m STRONG {
+  color: #0a2aef;
+}
+#contacts1-2m B {
+  font-size: 17px;
+  color: #ffffff;
 }
 
 
