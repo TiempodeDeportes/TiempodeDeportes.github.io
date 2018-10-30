@@ -319,7 +319,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": "63",
             "paddingTop": "1",
@@ -359,8 +359,8 @@
             }
           },
           "title": "Qué hacemos<br>",
-          "text": "<p>Durante casi treinta años venimos desarrollado actividades deportivas, &nbsp; &nbsp; educativas&nbsp;y recreativas en countries, escuelas deportivas, colegios, campos de deportes y clubes, además de eventos para empresas y actividades personalizadas de entrenamiento.</p>La planificación precisa y el alto desempeño son atributos propios de nuestros servicios educativos y deportivos, y explican la satisfacción de nuestros clientes <b>(<a href=\"NUESTROS CLIENTES.html#testimonials3-24\" target=\"_blank\" class=\"text-black\"><b>ver aquí</b></a>)</b>.<br><p><br><br><a href=\"NUESTROS CLIENTES.html#testimonials3-24\" target=\"_blank\"><b>Nuestros Clientes&nbsp;</b></a><br><br>\n<br><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SERVICIOS</a>",
+          "text": "<p>Durante casi treinta años venimos desarrollado actividades deportivas, &nbsp; &nbsp; educativas&nbsp;y recreativas en countries, escuelas deportivas, colegios, campos de deportes y clubes, además de eventos para empresas y actividades personalizadas de entrenamiento.</p>La planificación precisa y el alto desempeño son atributos propios de nuestros servicios educativos y deportivos, y explican la satisfacción de nuestros clientes <b>(<a href=\"NUESTROS CLIENTES.html#testimonials3-24\" target=\"_blank\" class=\"text-black\"><b>ver aquí</b></a>)</b>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"NUESTROS CLIENTES.html#testimonials3-24\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Nuestros Clientes</a>",
           "_tags": [
             "Tema"
           ],
@@ -372,7 +372,7 @@
               "font-size": "48px"
             },
             ".btn": {
-              "font-size": "16px"
+              "font-size": "18px"
             },
             "P": {
               "color": "#000000",
