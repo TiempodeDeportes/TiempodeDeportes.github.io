@@ -574,6 +574,14 @@ h6,
 #features3-2j H4 {
   color: #41a85f;
 }
+#content5-2y .mbr-section-title,
+#content5-2y p {
+  color: #fff;
+}
+#content5-2y .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
 #features1-9 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #41a85f;
 }
