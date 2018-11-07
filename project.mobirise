@@ -838,12 +838,12 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
             "columnsColor": "#41a85f",
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -939,11 +939,11 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"LLCC.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"MYCC.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"EDP.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"EB.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">VER<br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Tema"
@@ -960,12 +960,12 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
             "columnsColor": "#faaf40",
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1046,7 +1046,7 @@
           "title1": "Pacheco Golf",
           "subtitle1": "",
           "caption1": "",
-          "title2": "<a href=\"SJV.html\" target=\"_blank\">SJV</a>",
+          "title2": "<a href=\"SJV.html\" target=\"_blank\" class=\"text-primary\">SJV</a>",
           "subtitle2": "",
           "caption2": "",
           "title3": "Talar de Pacheco",
@@ -1061,11 +1061,11 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">VER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"SJV.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">VER</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">VER</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">VER</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Tema"
@@ -1077,10 +1077,10 @@
               "background-color": "#faaf40"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#f44a0e"
+              "color": "#ffffff"
             }
           }
         },
