@@ -1979,7 +1979,7 @@
           "subtitle": "Envianos un mensaje y rápidamente nos pondremos en contacto.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "form": {
-            "action": "tiempodedeportes@gmail.com",
+            "action": "carlosfrn@gmail.com",
             "alerts": {
               "success": "Gracias! Muy pronto nos comunicaremos."
             },
