@@ -550,6 +550,9 @@ h6,
 #features3-2k H4 {
   color: #41a85f;
 }
+#features3-2k .btn {
+  font-size: 14px;
+}
 #features3-2i P {
   text-align: left;
 }
@@ -561,6 +564,9 @@ h6,
 }
 #features3-2i H4 {
   color: #41a85f;
+}
+#features3-2i .btn {
+  font-size: 14px;
 }
 #features3-2j P {
   text-align: left;
@@ -574,6 +580,9 @@ h6,
 #features3-2j H4 {
   color: #41a85f;
 }
+#features3-2j .btn {
+  font-size: 14px;
+}
 #content5-2y .mbr-section-title,
 #content5-2y p {
   color: #fff;
@@ -585,6 +594,9 @@ h6,
 #features1-9 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #41a85f;
 }
+#features1-9 .btn {
+  font-size: 14px;
+}
 #features1-a .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #faaf40;
 }
@@ -593,6 +605,9 @@ h6,
 }
 #features1-a .mbr-cards-col:nth-child(odd) .card-title {
   color: #ffffff;
+}
+#features1-a .btn {
+  font-size: 14px;
 }
 #social-buttons2-21 .mbr-section-title,
 #social-buttons2-21 .btn-social {
