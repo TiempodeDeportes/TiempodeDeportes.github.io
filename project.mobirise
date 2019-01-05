@@ -33,8 +33,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 108,
-    "versionPublish": "4.8.6",
+    "uniqCompNum": 110,
+    "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
@@ -62,13 +62,13 @@
               "font-size": "12px"
             },
             ".navbar-toggler": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#0a2aef"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -80,16 +80,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#c63a09"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e8440b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f44a0e"
             },
             ".bg-color.transparent .link": {
-              "color": "#0a2aef",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -114,13 +114,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -137,7 +137,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -152,7 +152,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -185,7 +185,7 @@
               "font-size": "36px"
             },
             ".mbr-section-lead B": {
-              "color": "#0a2aef"
+              "color": "#d9ec0e"
             }
           }
         },
@@ -948,11 +948,11 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"LLCC.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"MYCC.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"EDP.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"EB.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">VER<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"LLCC.html#gallery2-u\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"MYCC.html#gallery2-15\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"EDP.html#gallery2-z\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"EB.html#gallery2-11\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"EC.html#gallery2-2s\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER<br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Tema"
@@ -1073,10 +1073,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">VER</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"SJV.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">VER</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">VER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"PG.html#gallery2-1f\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"SJV.html#gallery2-13\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"TDP.html#gallery2-2q\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"LD.html#gallery2-2o\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">VER</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -2098,8 +2098,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ole-edp-720x1040.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ole-edp-720x1040-720x1040.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-estancias-colonia-783x1198.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-estancias-colonia-783x1198-783x1198.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2127,13 +2127,13 @@
               "font-size": "12px"
             },
             ".navbar-toggler": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#0a2aef"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -2154,7 +2154,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#0a2aef",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2179,13 +2179,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2202,7 +2202,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -2236,8 +2236,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/39-eb-fds-720x1040.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/39-eb-fds-720x1040-720x1040.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-eb-colonia-720x1040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-eb-colonia-720x1040-720x1040.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2248,8 +2248,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/39-eb-ole-720x1040.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/39-eb-ole-720x1040-720x1040.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-eb-fds-720x1040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-eb-fds-720x1040-720x1040.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2277,13 +2277,13 @@
               "font-size": "12px"
             },
             ".navbar-toggler": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#0a2aef"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -2304,7 +2304,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#0a2aef",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2329,13 +2329,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2352,7 +2352,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -2373,7 +2373,7 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": 0,
+            "spacing": "1",
             "paddingTop": 4,
             "paddingBottom": 4,
             "filterBgColor": false,
@@ -2386,8 +2386,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/29-sjv-720x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/29-sjv-720x960-720x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-san-jorge-colonia-1-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-san-jorge-colonia-1-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-san-jorge-colonia-2-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-san-jorge-colonia-2-720x960-720x960.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2415,13 +2427,13 @@
               "font-size": "12px"
             },
             ".navbar-toggler": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#0a2aef"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -2442,7 +2454,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#0a2aef",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2467,13 +2479,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2490,7 +2502,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -2524,8 +2536,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/my-fds-1-1275x2100.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/my-fds-1-1275x2100-800x1318.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-1-1275x2100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-1-1275x2100-800x1318.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2536,8 +2548,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/my-fds-2-1275x2100.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/my-fds-2-1275x2100-800x1318.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-2-1275x2100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-2-1275x2100-800x1318.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2548,8 +2560,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/my-fds-3-1275x2100.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/my-fds-3-1275x2100-800x1318.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-3-1275x2100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-3-1275x2100-800x1318.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2560,8 +2572,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/my-fds-4-1275x2100.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/my-fds-4-1275x2100-800x1318.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-4-1275x2100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-4-1275x2100-800x1318.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2589,13 +2601,13 @@
               "font-size": "12px"
             },
             ".navbar-toggler": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#0a2aef"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -2616,7 +2628,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#0a2aef",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2641,13 +2653,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2664,7 +2676,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -2688,8 +2700,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/my-fds-5-1275x2100.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/my-fds-5-1275x2100-800x1318.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-5-1275x2100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-5-1275x2100-800x1318.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2700,8 +2712,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/my-fds-6-1275x2100.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/my-fds-6-1275x2100-800x1318.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-6-1275x2100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-6-1275x2100-800x1318.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2712,8 +2724,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/noct-my-720x1096.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/noct-my-720x1096-720x1096.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-7-1275x2100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-7-1275x2100-800x1318.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-8-1275x2100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-my-info-colonia-8-1275x2100-800x1318.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2728,6 +2752,76 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-2z"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/logo-tdd-transp-361x383.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-tdd-transp-361x383-361x383.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-30"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/imagen2-560x595.png",
+                "thumb": "@PROJECT_PATH@/assets/images/imagen2-560x595-560x595.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-31"
         }
       ]
     },
@@ -2756,36 +2850,48 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fds-llcc-720x1040.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fds-llcc-720x1040-720x1040.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-actividad-nocturna-720x1040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-actividad-nocturna-720x1040-720x1040.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-lagartos-colonia-1-720x1040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-lagartos-colonia-1-720x1040-720x1040.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-lagartos-colonia-2-720x1040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-lagartos-colonia-2-720x1040-720x1040.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/19-01-03-housito-colonia-720x1040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-01-03-housito-colonia-720x1040-720x1040.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/housito-llcc-720x1040.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/housito-llcc-720x1040-720x1040.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/liga-llcc-720x1040.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/liga-llcc-720x1040-720x1040.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
@@ -2809,13 +2915,13 @@
               "font-size": "12px"
             },
             ".navbar-toggler": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#0a2aef"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -2836,7 +2942,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#0a2aef",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2861,13 +2967,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2884,7 +2990,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -3118,13 +3224,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3141,7 +3247,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -3221,13 +3327,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3244,7 +3350,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -3407,13 +3513,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3430,7 +3536,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -3455,8 +3561,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/logo-tdd-transp-361x383.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-tdd-transp-361x383-361x383.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pacheco-golf-720x1040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pacheco-golf-720x1040-720x1040.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3493,13 +3599,13 @@
               "font-size": "12px"
             },
             ".navbar-toggler": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#0a2aef"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -3520,7 +3626,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#0a2aef",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3545,13 +3651,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3568,7 +3674,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -3593,8 +3699,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/logo-tdd-transp-361x383.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-tdd-transp-361x383-361x383.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boletin-colonia-ld-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boletin-colonia-ld-720x960-720x960.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3683,13 +3789,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3706,7 +3812,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -3731,8 +3837,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/logo-tdd-transp-361x383.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-tdd-transp-361x383-361x383.jpg",
+                "image": "@PROJECT_PATH@/assets/images/talar-de-pacheco-720x1040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/talar-de-pacheco-720x1040-720x1040.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3769,13 +3875,13 @@
               "font-size": "12px"
             },
             ".navbar-toggler": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#0a2aef"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#0a2aef"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -3796,7 +3902,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#0a2aef",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3821,13 +3927,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f44a0e",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#0a2aef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"false\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-18\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-19\" target=\"_blank\">QUÉ HACEMOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COUNTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LLCC.html#gallery2-u\" aria-expanded=\"false\" target=\"_blank\">Los Lagartos CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MYCC.html#gallery2-15\" aria-expanded=\"false\" target=\"_blank\">Mayling CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EB.html#gallery2-11\" aria-expanded=\"false\" target=\"_blank\">El Bosque CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EDP.html#gallery2-z\" aria-expanded=\"false\" target=\"_blank\">Estancias del Pilar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EC.html#gallery2-2s\" aria-expanded=\"false\" target=\"_blank\">El Carmel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PG.html#gallery2-1f\" aria-expanded=\"false\" target=\"_blank\">Pacheco Golf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TDP.html#gallery2-2q\" aria-expanded=\"false\" target=\"_blank\">Talar de Pacheco</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SJV.html#gallery2-13\" aria-expanded=\"false\" target=\"_blank\">San Jorge Village</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html#gallery2-2o\" aria-expanded=\"false\" target=\"_blank\">La Delfina B.P.</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-2k\" aria-expanded=\"true\">SERVICIOS EDUCATIVOS Y DEPORTIVOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Auditoría y Consultoría</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Capacitación in situ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\">Cursos Especiales y Viajes de Capacitación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2k\" aria-expanded=\"false\">Entrenamiento dirigido para empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Colonia de Fin de Semana / Colonia de Vacaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Actividad Nocturna para Adolescentes&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Jardincito / Campamentos / Deportes </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2i\" aria-expanded=\"false\">Festejos / Celebraciones / Cumpleaños </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Viajes de Ski </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Escuelas Deportivas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Eventos para Empresas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-2j\" aria-expanded=\"false\">Organización Integral de Torneos / Intercountries</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-1y\" aria-expanded=\"false\" target=\"_blank\">IMÁGENES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-7\" aria-expanded=\"false\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2x\" aria-expanded=\"false\">Teléfono/Mensaje</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-21\" aria-expanded=\"false\">Redes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3844,7 +3950,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INICIO</a>",
           "_tags": [
             "Tema"
           ],
@@ -3869,8 +3975,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/logo-tdd-transp-361x383.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-tdd-transp-361x383-361x383.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-boletin-carmel-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-boletin-carmel-720x960-720x960.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
